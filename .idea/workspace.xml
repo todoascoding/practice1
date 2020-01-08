@@ -16,6 +16,12 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="qVQNUcPN" />
+  </component>
   <component name="ProjectId" id="1W4e8TZMpyIKi4ZaTBYREb9IC61" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -55,6 +61,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1281" y="379" key="#Plugins" timestamp="1578414455127">
+      <screen x="0" y="0" width="3378" height="1440" />
+    </state>
+    <state x="1281" y="379" key="#Plugins/0.0.3378.1440@0.0.3378.1440" timestamp="1578414455127" />
     <state x="1281" y="379" key="#Project_Structure" timestamp="1578413183201">
       <screen x="0" y="0" width="3378" height="1440" />
     </state>
@@ -63,13 +73,17 @@
       <screen x="0" y="0" width="3378" height="1440" />
     </state>
     <state x="1469" y="462" key="FileChooserDialogImpl/0.0.3378.1440@0.0.3378.1440" timestamp="1578413243789" />
-    <state x="1390" y="545" key="com.intellij.ide.util.TipDialog" timestamp="1578413139908">
+    <state x="1390" y="545" key="com.intellij.ide.util.TipDialog" timestamp="1578414464096">
       <screen x="0" y="0" width="3378" height="1440" />
     </state>
-    <state x="1390" y="545" key="com.intellij.ide.util.TipDialog/0.0.3378.1440@0.0.3378.1440" timestamp="1578413139908" />
-    <state x="1071" y="445" key="new project wizard" timestamp="1578413152113">
+    <state x="1390" y="545" key="com.intellij.ide.util.TipDialog/0.0.3378.1440@0.0.3378.1440" timestamp="1578414464096" />
+    <state x="1071" y="445" key="new project wizard" timestamp="1578414479781">
       <screen x="0" y="0" width="3378" height="1440" />
     </state>
-    <state x="1071" y="445" key="new project wizard/0.0.3378.1440@0.0.3378.1440" timestamp="1578413152113" />
+    <state x="1071" y="445" key="new project wizard/0.0.3378.1440@0.0.3378.1440" timestamp="1578414479781" />
+    <state x="1352" y="439" width="672" height="678" key="search.everywhere.popup" timestamp="1578414423363">
+      <screen x="0" y="0" width="3378" height="1440" />
+    </state>
+    <state x="1352" y="439" width="672" height="678" key="search.everywhere.popup/0.0.3378.1440@0.0.3378.1440" timestamp="1578414423363" />
   </component>
 </project>
