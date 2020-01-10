@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="44090dfe-cdd0-48b4-ada9-3d3302a45161" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Functions.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HelloWorld.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/First.kt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,9 +34,30 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="com.todoascoding.practice1.FunctionsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="first" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.todoascoding.practice1.FunctionsKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.com.todoascoding.practice1.FunctionsKt" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -61,6 +85,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="436" y="382" key="#Inspections" timestamp="1578667679483">
+      <screen x="0" y="0" width="3378" height="1440" />
+    </state>
+    <state x="436" y="382" key="#Inspections/0.0.3378.1440@0.0.3378.1440" timestamp="1578667679483" />
     <state x="1281" y="379" key="#Plugins" timestamp="1578414455127">
       <screen x="0" y="0" width="3378" height="1440" />
     </state>
@@ -73,10 +101,10 @@
       <screen x="0" y="0" width="3378" height="1440" />
     </state>
     <state x="1469" y="462" key="FileChooserDialogImpl/0.0.3378.1440@0.0.3378.1440" timestamp="1578413243789" />
-    <state x="1390" y="545" key="com.intellij.ide.util.TipDialog" timestamp="1578414464096">
+    <state x="1390" y="545" key="com.intellij.ide.util.TipDialog" timestamp="1578667297631">
       <screen x="0" y="0" width="3378" height="1440" />
     </state>
-    <state x="1390" y="545" key="com.intellij.ide.util.TipDialog/0.0.3378.1440@0.0.3378.1440" timestamp="1578414464096" />
+    <state x="1390" y="545" key="com.intellij.ide.util.TipDialog/0.0.3378.1440@0.0.3378.1440" timestamp="1578667297631" />
     <state x="1071" y="445" key="new project wizard" timestamp="1578414479781">
       <screen x="0" y="0" width="3378" height="1440" />
     </state>
